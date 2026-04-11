@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Projects/Training/all-material/STM32/Blinky/build/Release/cmake_install.cmake",
+		"C:/Projects/Training/all-material/STM32/Blinky/build/Release/cmake/stm32cubemx/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

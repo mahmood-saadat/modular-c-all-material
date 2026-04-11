@@ -1,0 +1,21 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.openOcdConfigs": [
+    "board/esp32-wrover-kit-3.3v.cfg"
+],
+  "idf.currentSetup": "C:\\esp\\v6.0\\esp-idf",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32"
+},
+  "clangd.path": "C:\\Espressif\\tools\\esp-clang\\esp-20.1.1_20250829\\esp-clang\\bin\\clangd.exe",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=**",
+    "--compile-commands-dir=c:\\Projects\\Training\\all-material\\ESP32\\Blinky\\blink\\build"
+  ],
+  "C_Cpp.default.intelliSenseMode": "clang-x64",
+"stm32cube-ide-clangd.enable": false,
+"idf.flashType": "UART",
+"idf.portWin": "COM11",
+"idf.monitorPort": "COM11"
+}

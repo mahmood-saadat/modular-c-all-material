@@ -1,0 +1,6 @@
+C:/Users/saada/OneDrive - Durham University/Projects/Training/STM32/Blinky/Blinky/build/Debug/CMakeFiles/Blinky.dir
+C:/Users/saada/OneDrive - Durham University/Projects/Training/STM32/Blinky/Blinky/build/Debug/CMakeFiles/edit_cache.dir
+C:/Users/saada/OneDrive - Durham University/Projects/Training/STM32/Blinky/Blinky/build/Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/saada/OneDrive - Durham University/Projects/Training/STM32/Blinky/Blinky/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+C:/Users/saada/OneDrive - Durham University/Projects/Training/STM32/Blinky/Blinky/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/saada/OneDrive - Durham University/Projects/Training/STM32/Blinky/Blinky/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir

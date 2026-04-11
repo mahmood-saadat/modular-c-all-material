@@ -1,0 +1,6 @@
+[submodule "library"]
+	path = library
+	url = https://github.com/modular-c-course/library.git
+[submodule "hal"]
+	path = hal
+	url = https://github.com/modular-c-course/hal-esp32.git

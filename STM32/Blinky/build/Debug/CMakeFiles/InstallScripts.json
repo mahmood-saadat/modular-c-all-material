@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/saada/OneDrive - Durham University/Projects/Training/STM32/Blinky/Blinky/build/Debug/cmake_install.cmake",
+		"C:/Users/saada/OneDrive - Durham University/Projects/Training/STM32/Blinky/Blinky/build/Debug/cmake/stm32cubemx/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
