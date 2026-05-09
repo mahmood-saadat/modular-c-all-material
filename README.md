@@ -1,8 +1,62 @@
-# main-course
-
 # Embedded C: A Modular Approach - Project Framework
 
 This repository contains the official source code and reference materials for the **Embedded C: A Modular Approach** course. It is designed to demonstrate how to transition from "Code that just works" to "Code that scales" using a professional 4-layer architecture.
+
+Stop writing firmware that only works on one chip. Most electronic engineers can make a microcontroller "work," but few can design firmware that is professional, safe, and truly portable. If your main.c is hundreds of lines long, or if switching from an STM32 to an AVR requires a total rewrite, this course is for you.
+
+This course is a deep dive into Firmware Architecture. We move beyond simple "bare-metal" coding and teach you how to think like a Software Architect. You will learn to build a robust, 4-layer stack that separates your high-level logic from the low-level silicon.
+
+# The 4-Layer Framework You Will Master:
+
+* The HAL (Hardware Abstraction Layer): Hiding the silicon and register complexity.
+
+* The Device Layer: Building reusable drivers for external components like sensors and LCDs.
+
+* The Interface Layer: Creating a "contract" between your hardware and your brain.
+
+* The Application Layer: Writing pure, hardware-agnostic business logic.
+
+# Why This Course Is Different:
+
+* Architectural Focus: We don't teach C syntax; we teach C strategy.
+
+* Standards: Every line of code follows standards, including "Yoda Conditions" and strict naming conventions.
+
+* Hardware Agnostic: The principles you learn here apply to any MCU, STM32, PIC, AVR, ESP32, or ARM Cortex.
+
+# What You Will Learn
+
+* Design a modular 4-layer firmware project from scratch.
+
+* Implement the code according to an Embedded C Coding Standard.
+
+* Decouple application logic from hardware using the Interface Pattern.
+
+* Create a "Professional Starter Kit" template to jumpstart any future project.
+
+* Structure the Application Layer with dedicated Init, Callback, and Global modules.
+
+* Apply defensive programming techniques to eliminate "Magic Numbers" and assignment bugs.
+
+# Are there any course requirements or prerequisites?
+
+* Understanding of the C programming language (loops, pointers, structs).
+
+* Familiarity with any Microcontroller (MCU) and basic electronics.
+
+* A desire to move from "Hobbyist" to "Professional" firmware habits.
+
+# Who this course is for:
+
+* Electronic Engineers who want to write better, more structured software.
+
+* Embedded Developers struggling with code portability and unmanageable projects.
+
+* Students & Hobbyists looking to enter the professional embedded systems industry.
+
+* Firmware Managers who need a standard architectural framework for their team.
+
+
 
 ## 📂 Repository Structure
 
@@ -40,4 +94,6 @@ All code in this repository follows the **Barr Group Embedded C Coding Standards
 
 ---
 **Instructor:** Mahmood Saadat  
-**Organization:** [Cosmo Robotics](https://cosmorobotics.uk)
+**Organization:** [Cosmo Robotics](https://cosmorobotics.uk/learning/)
+**Udemy:** [Embedded C Firmware Architecture - A Modular Approach](https://www.udemy.com/course/embedded-c-firmware-architecture-a-modular-approach/?referralCode=EFD12AF0DDA09E696CC2)
+**Youtube:** [Cosmo Robotics](https://youtube.com/@mahmoodsaadat8537?si=8Nq0eulE_7zd1bM-)
