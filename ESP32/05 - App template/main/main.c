@@ -8,7 +8,7 @@
 */
 
 #include "../app/task/inc/app.h"
-#include <stdint.h>
+#include <stddef.h>
 
 void app_main(void)
 {
