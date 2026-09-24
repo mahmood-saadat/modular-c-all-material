@@ -1,0 +1,2 @@
+/create-prompt Create a prompt named module-doc. This prompt will accept a module as an input and create mermaid md file in Docs folder in the root. If the folder does not exist, it must create it. There should be two md files for the module. One with module name. This md file must show the overall structure of the module. Another md file with them module name and adding "detailed" siffix to the name. This one must show the module structure in details.
+If the files already exist, warn the user and ask for confirmation before replacing the file.

@@ -1,0 +1,1 @@
+/create-skill Create a skill named debug. The skill must be able to open the selected COM port in the project, shoule be able to flash the project (using esptool) and open the COM port and listen to the debug messages. Then it should compare the debug messages in the terminal and compare it to the code to make sure the code works as intended.
