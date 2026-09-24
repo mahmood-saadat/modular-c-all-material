@@ -1,0 +1,13 @@
+/create-instructions Follow these steps before any prompt:
+- Before showing the result, review these instructions again to make sure the result is reflecting all the instructions
+- Follow BarrC standard in C code development.
+- Follow this architecture: App->Interfaces->Devices->HAL or App->Interfaces->HAL.
+- Only HAL layer is allowed to include the platform specific headers. The source file is free to include any required header. The headers in HAL can only include standard C library or other HAL libraires. This includes OS or any other pripheral that is hardware dependant.
+- The Device layer is only allowed to include from HAL layer.
+- The Interface layer can include HAL or Devices headers.
+- The App only allowed to include the Interfaces.
+- All the global variables start with g_, the boleans has b_ prefix, arrays a_, pointers p_. A global array of bolean pointers will start with g_a_b_p_the_name.
+- Use descriptive names for variables and functions.
+- function input arguments must start with t_ instead of g_. The rest of rules for input arguments are the same as global variables.
+- All names must be lower snake case.
+- Once all the code is generated, review it for any potential bugs.
